@@ -23,7 +23,7 @@ Main -
      
 	       - VendingMachineAdminActions        - It has all actions which admin has to take to load or reset vending machine
 	       
-		   - VendingMachineConsumerActions - It has all actions which consumer has to take to get the iteam from vending machine 
+	       - VendingMachineConsumerActions     - It has all actions which consumer has to take to get the iteam from vending machine 
 		   
      Tests 
      
