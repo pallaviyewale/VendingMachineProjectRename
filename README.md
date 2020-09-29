@@ -20,6 +20,7 @@ Main -
 		   
 
 pom.xml    - All Maven dependecies
+
 testng.xml - Included all test classes in TestSuite
 		   
 How to run  -
